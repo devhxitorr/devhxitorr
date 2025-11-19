@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Bem-vindo(a) ao meu lab de código. Sempre aprendendo e transformando ideias em soluções digitais. 🚀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devhxitorr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
