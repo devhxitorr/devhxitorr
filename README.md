@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=devhxitorr&show_icons=true&theme=SUA_COR)](https://github.com/SEU_USERNAME)
 <!--
 **devhxitorr/devhxitorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
