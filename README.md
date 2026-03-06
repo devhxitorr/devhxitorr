@@ -1,8 +1,6 @@
 ## Olá! Bem-vindo(a) ao meu lab de código. Sempre aprendendo e transformando ideias em soluções digitais. 🚀
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=Heitor Mesquita">
-</a>
+
 <!--
 **devhxitorr/devhxitorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
