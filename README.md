@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo(a) ao meu lab de código. Sempre aprendendo e transformando ideias em soluções digitais. 🚀
 
-![Stats](./profile/stats.svg)
+
 <!--
 **devhxitorr/devhxitorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
