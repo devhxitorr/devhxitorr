@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo(a) ao meu lab de código. Sempre aprendendo e transformando ideias em soluções digitais. 🚀
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Heitor Mesquita?cardType=level-alternate&theme=github-dark&fontFamily=Afacad%20Flux&preferLogin=false)](https://git.io/awesome-stats-card)
+https://github-readme-stats.vercel.app/api?username=Heitor%2520Mesquita&theme=dark&show_icons=true&hide_border=true&count_private=true
 <!--
 **devhxitorr/devhxitorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
