@@ -1,6 +1,6 @@
 ## Olá! Bem-vindo(a) ao meu lab de código. Sempre aprendendo e transformando ideias em soluções digitais. 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heitor_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/heitor?cardType=level&theme=prussian&fontFamily=ABeeZee&preferLogin=false)](https://git.io/awesome-stats-card)
 <!--
 **devhxitorr/devhxitorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
