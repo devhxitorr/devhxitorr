@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 👨‍💻 Códigos que Pretendo Dominar
-![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=white&color=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
